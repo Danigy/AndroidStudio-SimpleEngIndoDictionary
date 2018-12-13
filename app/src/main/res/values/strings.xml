@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TheBestDictionary</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">Loading</string>
+    <string name="app_first_run">The Best Dictionary</string>
+    <string name="menu_eng_indo"><![CDATA[Eng -> Indo]]></string>
+    <string name="menu_indo_eng"><![CDATA[Indo -> Eng]]></string>
+    <string name="menu_cari_kata">Cari Kata</string>
+    <string name="loading_screen_text">The Best Super Great Mega Ultra Dictionary Ever Made On This Universe\n(Extreme Limited Edition)</string>
+</resources>

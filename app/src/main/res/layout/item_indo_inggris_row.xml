@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/tv_kata"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="KATA"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="@dimen/quarter_margin"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"/>
+    <TextView
+        android:id="@+id/tv_arti"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="ARTI"
+        android:textSize="14sp"
+        android:textStyle="italic"
+        android:layout_below="@id/tv_kata"
+        android:layout_marginBottom="@dimen/half_margin"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"/>
+
+</RelativeLayout>
